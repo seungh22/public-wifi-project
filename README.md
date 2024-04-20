@@ -27,5 +27,5 @@ CEgJEqg)
 -Run → 웹 브라우저가 실행된 후, 첫 화면이 보여야 함
 
 ## 실행영상
-[![Video Label](http://img.youtube.com/vi/'uuueZUWyX8w'/0.jpg)](https://youtu.be/'uuueZUWyX8w')
+[![Video Label](http://img.youtube.com/vi/'oyDzlVnbPbE'/0.jpg)](https://youtu.be/'oyDzlVnbPbE')
 <img src="![GIFMaker_me](https://github.com/seungh22/public-wifi-project/assets/114427072/05eca674-8a08-4fee-b25f-cd3f3cbda541)">
