@@ -20,7 +20,7 @@ import java.sql.SQLException;
 
 public class WifiService {
     private static final String BASE_URL = "http://openapi.seoul.go.kr:8088";
-    private static final String API_KEY = "4a43664b5873756534327744695647";
+    private static final String API_KEY = "6e7857535573657535306f46485759";
     private static final String DATA_TYPE = "json";
     private static final String SERVICE_NAME = "TbPublicWifiInfo";
 

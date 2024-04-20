@@ -17,7 +17,7 @@
 ## 📚 기술 스택
 - 개발 언어: Java (JDK 1.8), JSP
 - 라이브러리: gson 2.9.0, lombok 1.18.24, sqlite 3.36.03
-- 개발 도구: Tomcat 9.0.87, IntelliJ IDEA, GitHub, eXERD
+- 개발 도구: Tomcat 8.5.90, IntelliJ IDEA, GitHub, eXERD
 CEgJEqg)
 
 ## 톰캣 실행환경
@@ -25,3 +25,6 @@ CEgJEqg)
 -Server탭 - Tomcat Server 
 -Deployment탭 - +(Add) - Artifact - SeoulPublicWifi:war - OK
 -Run → 웹 브라우저가 실행된 후, 첫 화면이 보여야 함
+
+## 실행영상
+[![Video Label](http://img.youtube.com/vi/'uuueZUWyX8w'/0.jpg)](https://youtu.be/'uuueZUWyX8w')
