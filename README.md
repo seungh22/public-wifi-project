@@ -29,3 +29,6 @@ CEgJEqg)
 ## 실행영상
 [![Video Label](http://img.youtube.com/vi/'oyDzlVnbPbE'/0.jpg)](https://youtu.be/'oyDzlVnbPbE')
 <img src="![GIFMaker_me](https://github.com/seungh22/public-wifi-project/assets/114427072/05eca674-8a08-4fee-b25f-cd3f3cbda541)">
+<p align="center">
+  <img src="![GIFMaker_me](https://github.com/seungh22/public-wifi-project/assets/114427072/05eca674-8a08-4fee-b25f-cd3f3cbda541)">
+</p>
